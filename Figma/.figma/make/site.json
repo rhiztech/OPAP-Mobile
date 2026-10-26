@@ -1,0 +1,10 @@
+{
+  "description": "Streamline office communication with a compact presence pager that allows staff to ping colleagues, check statuses, and initiate calls or chats effortlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
